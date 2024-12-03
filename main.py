@@ -9,5 +9,3 @@ if __name__ == '__main__':
     my_stack.push('o')
     print(list(my_stack.data))
     print(my_stack.pointer)
-    
-print('Hello John')
