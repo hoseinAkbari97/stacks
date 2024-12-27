@@ -20,3 +20,9 @@ class Stack():
             self.data[self.pointer] = item
             self.pointer += 1
             
+    def pop(self):
+        """
+        Pops an Item from the Top of the Stack
+        """
+        pass
+            
